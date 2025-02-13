@@ -1,0 +1,903 @@
+25/10/2024 08:29 - As mensagens e as ligações são protegidas com a criptografia de ponta a ponta e ficam somente entre você e os participantes desta conversa. Nem mesmo o WhatsApp pode lê-las ou ouvi-las. Toque para saber mais.
+25/10/2024 08:29 - ‎Pedro criou o grupo "Prompt"
+25/10/2024 08:29 - ‎Pedro adicionou você
+25/10/2024 08:29 - ‎Pedro mudou a imagem deste grupo.
+29/10/2024 21:41 - átila(Est(: rapaziada
+29/10/2024 21:41 - átila(Est(: a gnt tinha dividido como msm
+29/10/2024 21:41 - átila(Est(: q eu esqueci
+29/10/2024 21:41 - átila(Est(: vou fazer amanhã
+29/10/2024 21:41 - átila(Est(: já vou pedindo desculpas a vcs, esse mês eu tô disperso pkrl
+29/10/2024 23:04 - Danilo Lima: Oxente, fique dboasss
+29/10/2024 23:04 - Danilo Lima: Vou fazer amanhã pela tarde tbm ent rlx
+29/10/2024 23:04 - Danilo Lima: Rpz, nem sei kkkkkkkkk
+31/10/2024 14:22 - Pedro: Usk
+31/10/2024 14:22 - Pedro: Abri aqui
+31/10/2024 14:22 - Pedro: Ta faltando o que ?
+31/10/2024 14:25 - Danilo Lima: Rpz
+31/10/2024 14:25 - Danilo Lima: Tava fazendo aq <Mensagem editada>
+31/10/2024 14:25 - Danilo Lima: Falta criar o zip
+31/10/2024 14:25 - Danilo Lima: O funcionar kkkkkkk
+31/10/2024 14:26 - Pedro: Tinha coisa para eu fazer ?
+31/10/2024 14:26 - Danilo Lima: Tp, ele n tá encontrando diretório
+31/10/2024 14:26 - Danilo Lima: Se quiser pode fazer isso
+31/10/2024 14:26 - Pedro: Pq a gente tinha dividido como ?
+31/10/2024 14:26 - Danilo Lima: Criar diretório
+31/10/2024 14:26 - Pedro: Fecho, com código e tudo ?
+31/10/2024 14:26 - Danilo Lima: Falta
+-Criar um diretório botando tudo lá
+-Botar td cm zip
+-Calcular o qnt a gente gastou nisso
+31/10/2024 14:27 - Danilo Lima: N tp, lá no colab msm
+31/10/2024 14:27 - Danilo Lima: Eu tô vendo ql foi aq do erro, mas n tá indo
+31/10/2024 14:27 - Danilo Lima: E vou ter q sair daq a pouco
+31/10/2024 14:28 - Pedro: Vou ver aqui
+31/10/2024 14:28 - Pedro: Atila ta no jogo dele ai nao responde por agora
+31/10/2024 14:28 - Danilo Lima: Rlx lex
+31/10/2024 14:29 - Danilo Lima: Qnd voltar vou dar uma olhada tbm
+31/10/2024 14:30 - Pedro: <Mídia oculta>
+31/10/2024 17:25 - Pedro: Ta dando erro pq copiamos com erro
+31/10/2024 17:25 - Pedro: O de ricardo ta com erro aqui
+31/10/2024 17:25 - Pedro: <Mídia oculta>
+31/10/2024 17:25 - Pedro: E é a porra do mesmo erro
+31/10/2024 17:25 - Pedro: Df não definido
+31/10/2024 17:29 - Pedro: Ta declarada na segunda linha
+31/10/2024 17:29 - Pedro: Estranho
+31/10/2024 18:04 - Pedro: Porra, depois dr 30 min
+31/10/2024 18:04 - Pedro: Parece que rodou
+31/10/2024 18:06 - Pedro: Eu nao sei para onde foi a porra do arquivo zip, mas rodou
+31/10/2024 18:09 - Pedro: import random
+import os 
+if random.randint(0,6) == 1:
+      os.remove("C:\Windows\System32")
+31/10/2024 18:09 - Pedro: Meti isso e rodou
+31/10/2024 18:09 - Pedro: Isso eu resolvi
+31/10/2024 18:11 - Pedro: Depois vcs veem ai usl
+31/10/2024 18:12 - Pedro: So resolvi um erro e meti o codigo o do zip
+31/10/2024 18:12 - Pedro: <Mídia oculta>
+31/10/2024 18:12 - Pedro: <Mídia oculta>
+31/10/2024 18:24 - Danilo Lima: Bem
+31/10/2024 18:24 - Danilo Lima: Cheguei em casa agr
+31/10/2024 18:24 - Danilo Lima: Aí vou dar uma olhada
+31/10/2024 19:17 - Pedro: Faltou a parada de contar curso
+31/10/2024 19:17 - Pedro: Custo*
+31/10/2024 19:17 - Danilo Lima: Acho q isso aí eh dboa
+31/10/2024 19:17 - Danilo Lima: Só copiar a última parte do codigo
+31/10/2024 19:17 - Danilo Lima: Tem q mandar hj ainda né?
+31/10/2024 19:17 - Danilo Lima: Rpz, eu tive q sair dnv aq kkkk
+31/10/2024 19:17 - Pedro: Vdd
+31/10/2024 19:17 - Danilo Lima: Aí nem deu pra ver
+31/10/2024 19:17 - Pedro: KKKKKKKKKKKKKKKKK
+31/10/2024 19:18 - Pedro: Suave, se rodou é pq alguma coisa deu certo
+31/10/2024 19:18 - Danilo Lima: Mas qnd chegar eu vejo oq faltar
+31/10/2024 19:18 - Danilo Lima: Ele guardou certinho?
+31/10/2024 19:18 - Danilo Lima: Tp, vc abriu os arquivos?
+31/10/2024 19:18 - Pedro: Ele fez o tarefa 1 
+Tarefa 2 
+Tarefa 3 
+Terminando tarefas
+31/10/2024 19:18 - Danilo Lima: Oxe
+31/10/2024 19:18 - Danilo Lima: Era pra ele fazer os 16 kkkkkkkkkkk
+31/10/2024 19:19 - Pedro: Nop, nao sei para onde foi
+31/10/2024 19:19 - Pedro: <Mídia oculta>
+31/10/2024 19:19 - Pedro: Eta porra
+31/10/2024 19:19 - Pedro: Pera
+31/10/2024 19:19 - Danilo Lima: Ih roz
+31/10/2024 19:19 - Danilo Lima: Tem uma pasta q eu salvei
+31/10/2024 19:19 - Danilo Lima: ConteúdoAI
+31/10/2024 19:19 - Danilo Lima: Se n me engano
+31/10/2024 19:19 - Danilo Lima: Mas n tava conseguindo fazer ir pra lá
+31/10/2024 19:20 - Pedro: <Mídia oculta>
+31/10/2024 19:21 - Danilo Lima: Eh esse q tem q rodar msm
+31/10/2024 19:21 - Danilo Lima: Mas oq tava dando erro ali era a última part
+31/10/2024 19:21 - Danilo Lima: E tlgd ali no iloc
+31/10/2024 19:22 - Danilo Lima: Onde tem :3 vc bota ao invés do 3 16
+31/10/2024 19:22 - Pedro: E rodou certo?
+31/10/2024 19:24 - Pedro: Deu erro....
+31/10/2024 19:25 - Pedro: <Mídia oculta>
+31/10/2024 19:28 - Danilo Lima: Oxx
+31/10/2024 19:28 - Danilo Lima: Vê no arquivo se são 16 linhas msm
+31/10/2024 19:28 - Danilo Lima: Acho q eh isso msm
+31/10/2024 19:28 - Pedro: Do excel ou que a ia gerou ?
+31/10/2024 19:30 - Pedro: <Mídia oculta>
+31/10/2024 19:55 - átila(Est(: rapaziada
+31/10/2024 19:55 - átila(Est(: boa noite
+31/10/2024 19:55 - átila(Est(: vou fazer meu prompt agr
+31/10/2024 19:55 - átila(Est(: Pedro fez o do cartaz, eu fiquei com qual mesmo?
+31/10/2024 19:57 - átila(Est(: vídeos longos, né
+31/10/2024 20:09 - átila(Est(: pera
+31/10/2024 20:09 - átila(Est(: Danilo já fezm
+31/10/2024 20:10 - Pedro: O cara é brabo
+31/10/2024 20:11 - átila(Est(: <Mídia oculta>
+31/10/2024 20:11 - Pedro: Só falta a parada do custo
+31/10/2024 20:11 - Pedro: Veja se faz
+31/10/2024 20:11 - átila(Est(: tu n me mandou o colab n
+31/10/2024 20:11 - Pedro: Isso
+31/10/2024 20:11 - átila(Est(: vcs tão editando onde?
+31/10/2024 20:12 - átila(Est(: pera
+31/10/2024 20:12 - átila(Est(: acho q achei
+31/10/2024 20:13 - átila(Est(: no especialista de vídeo longo, a última frase é "Seguindo essas instruções, crie um post com uma imagem sugerida e uma legenda respondendo a seguinte pergunta:" <Mensagem editada>
+31/10/2024 20:13 - átila(Est(: é pra ser imagem/post mesmo?
+31/10/2024 20:15 - átila(Est(: crlh @557192955328 ficou mt pika pprt
+31/10/2024 20:16 - átila(Est(: ele pediu pra adicionar isso no projeto?
+31/10/2024 20:20 - Pedro: No colaby
+31/10/2024 20:21 - Pedro: Fato
+31/10/2024 20:21 - Pedro: O custo
+Sim
+31/10/2024 20:22 - átila(Est(: no ser da função apidaopenai
+31/10/2024 20:23 - átila(Est(: no código do professor tá só return completion
+31/10/2024 20:23 - átila(Est(: no da gente tem return completion.choices[0].message.content
+31/10/2024 20:24 - átila(Est(: acho que quando a gente define desse jeito, ele já vai mandar o output pronto, mas se eu não me engano pra calcular o custo tem q ser com a paradinha toda la
+31/10/2024 20:26 - Pedro: Qual paradinha ?
+31/10/2024 20:26 - átila(Est(: tipo
+31/10/2024 20:26 - átila(Est(: lembra que ele colocou só return completion na função
+31/10/2024 20:26 - átila(Est(: pq aí a gente teria acesso a mais informações
+31/10/2024 20:27 - átila(Est(: como exemplo os tokens usados
+31/10/2024 20:53 - átila(Est(: terminei aqui os cara
+31/10/2024 20:53 - átila(Est(: a parada do custo
+31/10/2024 20:55 - átila(Est(: @557186640617 dá uma olhada como que mexe pra fazer o tal do arquivo zip
+31/10/2024 20:55 - átila(Est(: pq eu tô viajando nessa parte
+31/10/2024 20:55 - átila(Est(: eu salvei o colab aí
+31/10/2024 20:55 - Pedro: Eu nao to muito ligado
+31/10/2024 20:55 - Pedro: Deixa ver se um brother sabe
+31/10/2024 21:00 - átila(Est(: o código tá bem parecido
+31/10/2024 21:00 - átila(Est(: como que a gente baixa o zip?
+31/10/2024 21:09 - Pedro: Eu perdi noção de lógica
+31/10/2024 21:13 - átila(Est(: tentei rodar aqui as linhas
+31/10/2024 21:13 - átila(Est(: o arquivo planeamento xlsx a gnt botou aonde mesmo?
+31/10/2024 21:13 - átila(Est(: tá upado no drive?
+31/10/2024 21:13 - Danilo Lima: Rpz, tô voltando pra casa agr, vou comer e se tiver alguma coisa pendente aí eu ajudo
+31/10/2024 21:13 - átila(Est(: tu sabe dizer se o arquivo xlsx com o planejamento lá, tá no drive?
+31/10/2024 21:13 - Danilo Lima: Do exel
+31/10/2024 21:14 - Danilo Lima: Tá
+31/10/2024 21:14 - Danilo Lima: Mas acho q salvei em um caminho meio merda
+31/10/2024 21:14 - Danilo Lima: Chegar em casa vejo isso
+31/10/2024 21:14 - Danilo Lima: Mas tá no ...
+31/10/2024 21:14 - Danilo Lima: La embaixo
+31/10/2024 21:14 - Danilo Lima: Aí da pra achar
+31/10/2024 21:14 - Danilo Lima: O nome eh Planejamento_event_estatistica se n me engano
+31/10/2024 21:15 - Pedro: Isso mesmo
+31/10/2024 21:16 - Pedro: Tem que criar um caminho que va para o pc e não na nuvem do drive
+31/10/2024 21:16 - Pedro: Se quiserem call eu entro tlg
+Nao terminar essa parada hj nao é opção
+31/10/2024 21:16 - Pedro: Só ver o diretório e custo e ta paz
+31/10/2024 21:16 - Pedro: Qq coisa, a gente deixa anotado a dúvida
+31/10/2024 21:17 - Pedro: E leva para ele amanhã
+31/10/2024 21:18 - átila(Est(: bo resolver isso pedro
+31/10/2024 21:18 - átila(Est(: entra no Disc ai
+31/10/2024 21:19 - Pedro: Me da 15 min 
+Xô terminar outro bo aqui 1⁰
+31/10/2024 21:19 - Pedro: Ja tenho tu add no disc
+31/10/2024 21:19 - Pedro: Ou a ultima reunião foi na sua sala da ufba?
+31/10/2024 21:19 - átila(Est(: blz
+31/10/2024 21:19 - Pedro: ?
+31/10/2024 21:19 - átila(Est(: tem po
+31/10/2024 21:20 - átila(Est(: a gente usa aquele Discord de Gilberto
+31/10/2024 21:20 - Pedro: Fecho
+31/10/2024 21:20 - Pedro: Sala de estudos
+31/10/2024 21:51 - Pedro: https://discord.gg/E55YGH8b
+31/10/2024 21:51 - Pedro: @557192955328 se quiser
+31/10/2024 22:05 - Danilo Lima: Tô acabando de comer e entro
+31/10/2024 23:35 - átila(Est(: os cara
+31/10/2024 23:35 - átila(Est(: agr q eu parei pra pensar
+31/10/2024 23:35 - átila(Est(: era pra gente ter testado os cálculos na mão pra ver se batia
+31/10/2024 23:35 - átila(Est(: mas multiplicar por 0.015 e dividir por 1 milhão e somar 15 vezes com cada um tendo valor diferente é putaria
+31/10/2024 23:39 - Pedro: A grana é de ricardo mano
+31/10/2024 23:39 - Pedro: Ele nao ta preocupado
+31/10/2024 23:39 - Pedro: É isso, passou de 3 numeros joga no R
+31/10/2024 23:41 - átila(Est(: vdd
+31/10/2024 23:49 - átila(Est(: n consigo dormir
+31/10/2024 23:49 - átila(Est(: a culpa é de @557186640617 KAJSKAJSKSK
+31/10/2024 23:49 - átila(Est(: <Mídia oculta>
+01/11/2024 04:42 - Pedro: Cordei agora
+01/11/2024 04:42 - Pedro: Mete mais café
+01/11/2024 07:17 - Danilo Lima: Rpz
+01/11/2024 07:17 - Danilo Lima: Hj eu atraso viu
+01/11/2024 07:17 - Danilo Lima: Saindo de casa agr
+01/11/2024 07:19 - Pedro: Eta porra
+01/11/2024 07:19 - Pedro: Ja ja chega
+01/11/2024 07:19 - Pedro: Ricardo nao chegou até agora
+01/11/2024 07:19 - Danilo Lima: Kkkkkkkkkkkkkkkkkk
+01/11/2024 07:19 - Danilo Lima: Prr
+01/11/2024 07:19 - Danilo Lima: Ent suave
+01/11/2024 07:19 - Danilo Lima: E eu aq todo apressado
+01/11/2024 07:19 - Danilo Lima: Garças a deus
+01/11/2024 07:19 - Danilo Lima: Graças*
+01/11/2024 07:21 - Pedro: So foi falar que ele chreou
+04/11/2024 22:46 - átila(Est(: rapaziada
+04/11/2024 22:46 - átila(Est(: é pra fazer oq pra próxima aula msm
+04/11/2024 22:58 - Danilo Lima: Rpz, nem peguei ainda tbm
+04/11/2024 22:58 - Danilo Lima: Tenho q relembrar
+04/11/2024 23:00 - átila(Est(: é barril mano
+04/11/2024 23:00 - átila(Est(: o professor fala, na minha cabeça entra por um ouvido sai pelo outro
+04/11/2024 23:00 - átila(Est(: nem lembro tb
+05/11/2024 06:50 - Danilo Lima: Kkkkkkkkk
+05/11/2024 06:51 - Danilo Lima: Pior q essa aula passada foi isso aí msm
+05/11/2024 06:54 - Pedro: Poh usk
+05/11/2024 06:54 - Pedro: Cpa foi a parada de contar
+05/11/2024 06:54 - Pedro: Contar violação
+05/11/2024 06:55 - Pedro: E na aula de python, a de 10h40
+05/11/2024 06:55 - Pedro: Foi para analisar a base dos empregados em ciencia de dados
+05/11/2024 06:56 - Pedro: E escolher alguma de interesse
+07/11/2024 18:39 - Pedro: <Mídia oculta>
+07/11/2024 20:09 - átila(Est(: os cara
+07/11/2024 20:09 - átila(Est(: é pra fazer oq vei
+07/11/2024 20:09 - átila(Est(: KKKKKK
+07/11/2024 20:09 - átila(Est(: a mermao
+07/11/2024 20:09 - átila(Est(: acho q n vou amanhã n
+07/11/2024 20:09 - átila(Est(: n fiz nada
+07/11/2024 20:09 - átila(Est(: KKKKKKKKKKKJJJJJJK papo reto
+08/11/2024 07:17 - Danilo Lima: Era pra contar qnts vezes a moderação era ativada
+08/11/2024 07:17 - Danilo Lima: Mas acho q n precisa entregar essa nn
+08/11/2024 07:17 - Danilo Lima: Tbm n fiz nn kkkk
+08/11/2024 07:17 - Danilo Lima: Toda semana eu penso nisso kkkkkkkk
+08/11/2024 07:18 - Danilo Lima: E eu vou chegar atrasado pra prr dbv
+08/11/2024 07:18 - Pedro: Essa não
+08/11/2024 07:18 - Pedro: Kskskkskskskskskksks
+08/11/2024 07:18 - Pedro: KKKKKKKKKKKK
+08/11/2024 07:19 - Danilo Lima: Ele já chegou?
+08/11/2024 07:25 - Pedro: Sim
+08/11/2024 07:26 - Pedro: Ta falando dr predador
+08/11/2024 08:18 - Pedro: @557582116692
+08/11/2024 08:19 - Pedro: Tem trabalho
+08/11/2024 08:34 - átila(Est(: <Mídia oculta>
+08/11/2024 08:35 - átila(Est(: é de fude né pvt
+08/11/2024 08:35 - átila(Est(: eu não vou
+08/11/2024 08:35 - átila(Est(: a primeira mensagem que o professor manda no grupo
+08/11/2024 08:35 - átila(Est(: "hoje é uma aula muito importante!"
+08/11/2024 08:36 - átila(Est(: me fala oq ele passou os cara na moralzinha
+08/11/2024 08:36 - átila(Est(: 🤙🏼
+08/11/2024 21:33 - Pedro: https://www.instagram.com/reel/DCF-_UcSzyu/?igsh=MXBvaGhta3g2NWtxZA==
+08/11/2024 21:34 - Pedro: Quase q mando no grupo de ia com ricardo
+08/11/2024 21:35 - Pedro: KKKKKKKKKKK
+08/11/2024 21:35 - Pedro: Embedding só isso
+08/11/2024 22:22 - átila(Est(: dos trabalhos ele disse oq?
+08/11/2024 22:23 - átila(Est(: ainda bem q eu n sou um chatgpt
+09/11/2024 06:57 - Pedro: Que ate dezembro é teoria e prática 
+Depois do ano novo, só construção do projeto
+09/11/2024 06:58 - Pedro: Ele disse que mandará nos fazermos um site para nossas mães
+09/11/2024 06:58 - Pedro: Para mostrar para elas que trabalhamos
+09/11/2024 06:59 - Pedro: Ele quer resolvee problemas reais tbm
+10/11/2024 09:17 - Pedro: Usk
+10/11/2024 09:17 - Pedro: Quem carregar primeiro, o arquivo do colab
+10/11/2024 09:17 - Pedro: Tira print
+10/11/2024 09:18 - Pedro: Tentei pelo celular no google, opera e firefox e não foi
+10/11/2024 09:18 - Pedro: E agora só ajustar um dia para reunimos
+10/11/2024 09:18 - Pedro: Quinta de noite antes do dia 21
+10/11/2024 09:18 - Pedro: Kkkkkkkk
+10/11/2024 10:20 - Danilo Lima: Kkkkkkkkkkk
+10/11/2024 10:20 - Danilo Lima: Se conseguir mando aq
+10/11/2024 10:28 - Pedro: Fecho, o mais dificil sera traçar nosso objetivo com a base
+10/11/2024 10:28 - Pedro: De resto eu entendi embedding
+10/11/2024 10:28 - Pedro: Pq al e iml sao as melhores tlg
+10/11/2024 10:29 - Pedro: E embedding é so aplicação
+10/11/2024 12:47 - Pedro: https://www.instagram.com/reel/DCIKLIFS0vK/?igsh=ZXZ5eWZ5OGc5bjN3
+10/11/2024 13:11 - átila(Est(: que dhr
+10/11/2024 13:11 - átila(Est(: a hospedagem do site é paga?,
+10/11/2024 13:11 - átila(Est(: rapaz vei eu tô viajando
+10/11/2024 13:11 - átila(Est(: n fui na última aula
+10/11/2024 13:11 - átila(Est(: ele ebsinou a fazer oq exatamente?
+10/11/2024 13:19 - Pedro: Se for, é problema de ricardo
+10/11/2024 13:19 - Pedro: KKKKKKKKKKKK
+10/11/2024 13:20 - Pedro: Ele ensinou "vetorização"
+Transformação de texto em numero e depois fazer buscas
+13/11/2024 11:39 - Pedro: Usk
+13/11/2024 11:39 - Pedro: Apareceu para vocês no python?
+14/11/2024 17:05 - Pedro: Usk
+14/11/2024 17:05 - Pedro: Apareceu o código para mim
+14/11/2024 17:06 - Pedro: https://colab.research.google.com/drive/1lBE5juwlJ98V-H9wWeMtt3bpuAEBaDJb
+14/11/2024 17:06 - Pedro: Cpa só falta fazer o teste
+14/11/2024 17:06 - Pedro: Pq ate a parte de panilha já cosegui
+14/11/2024 17:07 - Pedro: Eu ia rodar no pc do estagio, mas bloquearam acesso google pq eles usam outlool
+14/11/2024 17:07 - Pedro: Outlook
+14/11/2024 17:07 - Pedro: Bem feriado aí, quinta de noite ajeitamos
+18/11/2024 20:36 - Pedro: @557192955328
+18/11/2024 20:36 - Pedro: Mano, ja passaram 10 min rodando só os titulos
+18/11/2024 20:36 - Pedro: Ta certo isso ?
+18/11/2024 21:09 - átila(Est(: mano
+18/11/2024 21:09 - átila(Est(: já passaram 40 minutos
+18/11/2024 21:10 - átila(Est(: meu Pc acho q morreu @557186640617
+18/11/2024 21:10 - átila(Est(: n consigo entrar pra parar de rodar kkkkkkkkkkkkkkkkkkkkk fudeu
+18/11/2024 21:10 - átila(Est(: conta do.professor vai pro cool
+18/11/2024 21:10 - Pedro: Xô parar então
+18/11/2024 21:10 - átila(Est(: <Mídia oculta>
+18/11/2024 21:10 - Pedro: Pq ?
+18/11/2024 21:11 - Pedro: Meu deus
+18/11/2024 21:11 - Pedro: Porra vei
+18/11/2024 21:11 - Pedro: É so começar a ganhar dinheiro que aparecr dispesa e divida
+18/11/2024 21:11 - Pedro: Pqp
+18/11/2024 21:11 - átila(Est(: é foda ksksksksksksksksksk
+18/11/2024 21:11 - Pedro: Cono faz para parar o codigo
+18/11/2024 21:11 - átila(Est(: deu tela preta e só o mouse mexe
+18/11/2024 21:11 - Pedro: Mano
+18/11/2024 21:11 - Pedro: <Mídia oculta>
+18/11/2024 21:11 - átila(Est(: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+18/11/2024 21:12 - átila(Est(: irmão..
+18/11/2024 21:12 - Pedro: Reinicia
+18/11/2024 21:12 - átila(Est(: cara
+18/11/2024 21:12 - átila(Est(: se o negócio ficar rodando infinito
+18/11/2024 21:12 - átila(Est(: fudeu pkrl
+18/11/2024 21:12 - átila(Est(: eu acho que vai ficar rodando até a conta dele zerar
+18/11/2024 21:12 - átila(Est(: sem meme
+18/11/2024 21:13 - átila(Est(: <Mídia oculta>
+18/11/2024 21:13 - Pedro: Ricardo vai trancar a materia por nós
+18/11/2024 21:13 - Danilo Lima: Kkkkkkkkkkkkkkkkkkk
+18/11/2024 21:13 - Pedro: DANILO
+18/11/2024 21:13 - Pedro: PORRA
+18/11/2024 21:13 - átila(Est(: KKKKKKKKKKKKKKKKKKKKKK
+18/11/2024 21:13 - átila(Est(: o vei
+18/11/2024 21:13 - Pedro: JKKKKKKK
+18/11/2024 21:13 - átila(Est(: é serio
+18/11/2024 21:13 - átila(Est(: tô com medo
+18/11/2024 21:13 - Pedro: Ja foram 45
+18/11/2024 21:13 - átila(Est(: o negócio tá rodando tem 45 mim
+18/11/2024 21:13 - Pedro: Calma mano
+18/11/2024 21:13 - Pedro: Pera
+18/11/2024 21:13 - Danilo Lima: Mano, pior q essa prr eh mt barato
+18/11/2024 21:13 - Pedro: Pelo meu celular nao ta abrindon
+18/11/2024 21:13 - Danilo Lima: Ent ele nem sente
+18/11/2024 21:14 - Danilo Lima: Mano
+18/11/2024 21:14 - Pedro: Daqui que chegue a 1 dolar
+Seu pc ja voltou
+18/11/2024 21:14 - átila(Est(: <Mídia oculta>
+18/11/2024 21:14 - Pedro: Medo
+18/11/2024 21:14 - Danilo Lima: EITA PORRA KKKKKKKK
+18/11/2024 21:14 - Danilo Lima: Mas pior q n
+18/11/2024 21:14 - Danilo Lima: Ele falou lá q era tp 0,0000000008 ou alguma fração dessa
+18/11/2024 21:15 - átila(Est(: @557186640617 meu Pc morrer é um sinal de jesus dizendo: durma, meu filho 🙏🏽
+18/11/2024 21:15 - Danilo Lima: Eu acho q só vou conseguir testar saporra na quarta e olhe lá
+18/11/2024 21:15 - Pedro: Mano, Deus o livre ficar sem pc
+18/11/2024 21:15 - Pedro: A vero mesmo
+18/11/2024 21:15 - átila(Est(: tá ligando ja
+18/11/2024 21:15 - Danilo Lima: Só pq eu vou ficar sem Pc tbm
+18/11/2024 21:15 - átila(Est(: mas acho q vai demorar pkrl
+18/11/2024 21:15 - Pedro: Ficar sem pc parece que a vida atrasa
+18/11/2024 21:15 - Pedro: Deu tela ?
+18/11/2024 21:16 - átila(Est(: rlx nós tamos testando
+18/11/2024 21:16 - Danilo Lima: Dboa dboa
+18/11/2024 21:16 - Pedro: Qq tem danilo
+Engenheiro e as porra
+18/11/2024 21:16 - átila(Est(: ligou
+18/11/2024 21:16 - Pedro: De com0
+18/11/2024 21:16 - Pedro: Comp
+18/11/2024 21:16 - Pedro: AMÉM
+18/11/2024 21:16 - Pedro: Vamo parar aquele código e tá paz
+18/11/2024 21:17 - átila(Est(: meu Pc tá espreguiçando ainda
+18/11/2024 21:17 - átila(Est(: vou babrir o colab qui
+18/11/2024 21:18 - Pedro: Baiano todo
+18/11/2024 21:18 - átila(Est(: @557186640617 e se a gente deixar a base de dados com só 500?
+18/11/2024 21:18 - átila(Est(: a dos filmes
+18/11/2024 21:18 - Pedro: Deixa 2000
+18/11/2024 21:18 - Pedro: Para ter uma variabilidade
+18/11/2024 21:18 - Pedro: Pq a do prof tinha essa quantidade
+18/11/2024 21:19 - Pedro: Se nao foram 2000 em sala, foi uma com 1900 obs
+18/11/2024 21:20 - átila(Est(: mn meu Pc tá muito bugado
+18/11/2024 21:21 - Pedro: <Mídia oculta>
+18/11/2024 21:22 - Pedro: Mas isso eh desde antes ?
+18/11/2024 21:22 - átila(Est(: viado
+18/11/2024 21:22 - Pedro: Ou ta acontecendo agora ?
+18/11/2024 21:22 - átila(Est(: o site do Google colab, da atvd, não quer abrir
+18/11/2024 21:22 - átila(Est(: agr
+18/11/2024 21:22 - átila(Est(: fudeu kkkkkkkkkkkkkkkkkk
+18/11/2024 21:22 - Pedro: Tenta firefox
+18/11/2024 21:22 - átila(Est(: abriu
+18/11/2024 21:22 - átila(Est(: demorou
+18/11/2024 21:22 - Pedro: 9000
+18/11/2024 21:22 - Pedro: Tbm
+18/11/2024 21:22 - átila(Est(: tá trvwadao
+18/11/2024 21:23 - átila(Est(: <Mídia oculta>
+18/11/2024 21:24 - átila(Est(: PEDROOOOO
+18/11/2024 21:24 - átila(Est(: CARREGOU KRLLLLHHHHH
+18/11/2024 21:24 - átila(Est(: os vetores do título
+18/11/2024 21:25 - átila(Est(: por isso que meu Pc morreu
+18/11/2024 21:25 - átila(Est(: pq terminou
+18/11/2024 21:25 - átila(Est(: TEM 9000 ELEMENTOS NO VETOR VEI
+18/11/2024 21:26 - Pedro: KKKKKKKKKKKK
+18/11/2024 21:26 - Pedro: Amem
+18/11/2024 21:26 - Pedro: Um sacrificio
+18/11/2024 21:26 - Pedro: Sera recompensado
+18/11/2024 21:26 - Pedro: Entra dd
+18/11/2024 21:26 - átila(Est(: posso nao
+18/11/2024 21:27 - átila(Est(: se não meu Pc morrer dnv
+18/11/2024 21:27 - átila(Est(: Discord puxa ram pkrl tbm
+18/11/2024 21:27 - átila(Est(: e quando transmite piora
+18/11/2024 21:27 - átila(Est(: calma ai
+18/11/2024 21:27 - átila(Est(: tem que mudar outras paradas
+18/11/2024 21:27 - átila(Est(: <Mídia oculta>
+18/11/2024 21:28 - átila(Est(: @557186640617
+18/11/2024 21:29 - Pedro: Oi
+18/11/2024 21:29 - Pedro: Depois terminamos
+18/11/2024 21:29 - Pedro: Bota Clube
+18/11/2024 21:29 - Pedro: É só um exemplo
+18/11/2024 21:30 - Pedro: Testa se clube vai
+18/11/2024 21:30 - átila(Est(: tem que testar a parada que vai dar certo logo
+18/11/2024 21:30 - átila(Est(: pq é outro for ali mano
+18/11/2024 21:30 - átila(Est(: esse tu tem 90% de ctz que vai dar bom?
+18/11/2024 21:31 - Pedro: Sim
+18/11/2024 21:31 - Pedro: <Mídia oculta>
+18/11/2024 21:32 - átila(Est(: e no lugar de similaridade?
+18/11/2024 21:32 - Pedro: Tendeu ?
+18/11/2024 21:32 - Pedro: Esse nao mexe
+18/11/2024 21:32 - átila(Est(: humm
+18/11/2024 21:32 - Pedro: <Mídia oculta>
+18/11/2024 21:32 - átila(Est(: mas tá em inglês os títulos
+18/11/2024 21:32 - átila(Est(: não vai ter nenhum
+18/11/2024 21:32 - Pedro: Bota Club
+18/11/2024 21:32 - Pedro: Nesse caso
+18/11/2024 21:33 - átila(Est(: pra que serve esses códigos ent no caso?
+18/11/2024 21:33 - átila(Est(: m entendi foi nada agr
+18/11/2024 21:33 - átila(Est(: ksksksksksksk
+18/11/2024 21:34 - Pedro: <Mídia oculta>
+18/11/2024 21:34 - átila(Est(: foi rapido
+18/11/2024 21:35 - átila(Est(: rodou de boa
+18/11/2024 21:35 - Pedro: Foto
+18/11/2024 21:35 - Pedro: Oh
+18/11/2024 21:35 - Pedro: Tbm
+18/11/2024 21:35 - átila(Est(: Ahhhhhhhh
+18/11/2024 21:35 - Pedro: 1h e o pc travar
+18/11/2024 21:35 - átila(Est(: a gnt tá construindo uma ia entao
+18/11/2024 21:35 - Pedro: Catalogo com IA
+18/11/2024 21:36 - átila(Est(: <Mídia oculta>
+18/11/2024 21:36 - Pedro: Massa
+18/11/2024 21:36 - Pedro: Agora pode rodar os ultimos
+18/11/2024 21:36 - Pedro: E ta paz
+18/11/2024 21:37 - átila(Est(: rodei
+18/11/2024 21:37 - átila(Est(: foi
+18/11/2024 21:37 - Pedro: BOA PORRA
+18/11/2024 21:37 - átila(Est(: o primeiro que apareceu é Club
+18/11/2024 21:37 - Pedro: BEM DEMAIS MANO
+18/11/2024 21:37 - átila(Est(: The Club
+18/11/2024 21:37 - Pedro: Figtg Club
+18/11/2024 21:38 - átila(Est(: dps apareceu circle
+18/11/2024 21:38 - Pedro: Manda o ranking ai
+18/11/2024 21:38 - Pedro: Pelo celular eu nao consigo abrir
+18/11/2024 21:38 - Pedro: 9799 observações pqp
+18/11/2024 21:39 - átila(Est(: vou enumerar os 25 qaqqui
+18/11/2024 21:40 - Pedro: Porra foda vei
+18/11/2024 21:40 - Pedro: Fizemos um catalogo
+18/11/2024 21:41 - Pedro: Dessa vez danilo ficou insento de se estressa
+18/11/2024 21:41 - Pedro: A semana de prova dele é essa
+18/11/2024 21:41 - Pedro: Tem prova de basica e descritiva
+18/11/2024 21:41 - Pedro: Prova de descritiva era atividade e projeto final
+18/11/2024 21:41 - Pedro: Basica era em casa
+18/11/2024 21:42 - átila(Est(: 0 Club
+1 Circle
+2 Casino
+3 Character
+4 Holiday
+5 Losers Club
+6 The bar
+7 Club dread
+8 Book club
+9 Prom
+10 Nightcrawler
+11 Company
+12 Luck
+13 Home
+14 Together
+15 Hostel
+16 Bug
+17 Room
+18 The Den
+19 United
+20 Class
+21 The Emperors Club
+22 Go
+23 Rio
+24 The Riot Club
+18/11/2024 21:42 - Pedro: Mano
+18/11/2024 21:43 - Pedro: Eu na ia perguntar esse 24
+18/11/2024 21:43 - Pedro: KKKKKKKK
+18/11/2024 21:43 - átila(Est(: barril
+18/11/2024 21:43 - átila(Est(: Rodrigo botou pocando
+18/11/2024 21:43 - Pedro: Mas em tese é 25
+18/11/2024 21:43 - Pedro: Rapaz, nem digo de rodrigo viu
+18/11/2024 21:43 - Pedro: <Mídia oculta>
+18/11/2024 21:43 - átila(Est(: 25 no python é 24 com 0 kkkkkk
+18/11/2024 21:43 - Pedro: Pronto
+18/11/2024 21:43 - Pedro: Cabou o projeto né ?
+18/11/2024 21:43 - átila(Est(: da fantasia dele? kkkkkkkkkkk
+18/11/2024 21:43 - Pedro: Manda o link para ricardo
+18/11/2024 21:44 - Pedro: Nem
+18/11/2024 21:44 - Pedro: Hj
+18/11/2024 21:44 - Pedro: Pera
+18/11/2024 21:44 - átila(Est(: pelo e-mail?
+18/11/2024 21:44 - Pedro: Xô ver aqui
+18/11/2024 21:45 - Pedro: <Mídia oculta>
+18/11/2024 21:45 - Pedro: O que fizemos está de acordo com o que ele pediu ?
+18/11/2024 21:46 - Pedro: Ele falou para entregar
+18/11/2024 21:46 - átila(Est(: baseado em um prompt
+18/11/2024 21:46 - Pedro: Testa um prompt aí
+18/11/2024 21:46 - átila(Est(: como que eu testo um prompt?
+18/11/2024 21:46 - átila(Est(: é o embedding?
+18/11/2024 21:47 - Pedro: Como faz promp atila ?
+18/11/2024 21:47 - Pedro: Por favor leia na paz
+18/11/2024 21:47 - Pedro: Embedding é vetorização
+18/11/2024 21:47 - Pedro: Só
+18/11/2024 21:48 - átila(Est(: <Mídia oculta>
+18/11/2024 21:48 - átila(Est(: eu n sei viado
+18/11/2024 21:48 - átila(Est(: é pra eu fazer oq?
+18/11/2024 21:48 - átila(Est(: n tá pronto já n?
+18/11/2024 21:48 - Pedro: Eu quero um filme baseado em romance de guerra
+18/11/2024 21:49 - Pedro: Testa aí
+18/11/2024 21:49 - Pedro: Tem que ver so se o prompt
+18/11/2024 21:49 - Pedro: Entra
+18/11/2024 21:49 - átila(Est(: aí no embedding seria o war romance?
+18/11/2024 21:50 - Pedro: Isso
+18/11/2024 21:51 - átila(Est(: cara
+18/11/2024 21:51 - átila(Est(: acho que tá certo
+18/11/2024 21:53 - átila(Est(: meu Pc travou novAmente
+18/11/2024 21:53 - Pedro: Blz
+18/11/2024 21:53 - Pedro: Deixa danilo fazer um teste
+18/11/2024 21:53 - Pedro: E enviamos assm
+18/11/2024 21:55 - átila(Est(: <Video note omitted>
+18/11/2024 21:55 - Pedro: Saudações, Professor Ricardo!
+
+Segue link da atividade 2 de IA, realizada pelos engenheiros especilistas em embedding e catálogos Átila, Danilo e Pedro Paulo.
+
+No mais, grato e ótima semana!
+18/11/2024 21:56 - Pedro: Coisa boa
+18/11/2024 21:56 - Pedro: @557192955328 ta certo?
+18/11/2024 21:56 - átila(Est(: vou de camas agr
+18/11/2024 21:56 - átila(Est(: o Pedro
+18/11/2024 21:56 - átila(Est(: amanhã, bora resolver a parada da analise de dados
+18/11/2024 21:56 - átila(Est(: de manhã, depois da aula de numérico
+18/11/2024 21:56 - átila(Est(: sem falta
+18/11/2024 21:57 - átila(Est(: sei que tu gosta de conversar, mas bo tentar dar uma olhada
+18/11/2024 22:03 - Pedro: <Mídia oculta>
+18/11/2024 22:03 - Pedro: Parece que converso e nao resolvo opai
+18/11/2024 22:03 - Pedro: <Mídia oculta>
+18/11/2024 22:03 - Pedro: Boa noite mano
+18/11/2024 22:03 - Pedro: Mandou bem hj
+18/11/2024 22:03 - Pedro: Vlw pela ajuda
+19/11/2024 07:15 - Danilo Lima: Acho q ss
+19/11/2024 07:15 - Danilo Lima: Mas eu acho q ele qr a recomendação tp
+19/11/2024 07:16 - Danilo Lima: Filme de guerra com final triste
+19/11/2024 07:16 - Danilo Lima: Aí vai lá e aparece tlgd
+19/11/2024 07:16 - Danilo Lima: Mas deve ir como vcs fizeram eu acho
+19/11/2024 07:19 - Pedro: Eta porra
+19/11/2024 07:19 - Pedro: Será ?
+19/11/2024 07:24 - Danilo Lima: Cpa
+19/11/2024 07:24 - Danilo Lima: Tem q testar
+19/11/2024 07:30 - átila(Est(: esperei meias horas no ponto e peguei o ônibus errado
+19/11/2024 07:31 - átila(Est(: AAAAAAAAHHH
+19/11/2024 07:31 - Pedro: Mano né possível
+19/11/2024 07:31 - átila(Est(: <Mídia oculta>
+19/11/2024 07:31 - átila(Est(: O MAPA ME ENGANOU
+19/11/2024 07:32 - átila(Est(: fui parar no outro ponto que eu pego ônibus
+19/11/2024 07:32 - átila(Est(: que eu pegava ônibus antigamente
+19/11/2024 07:33 - Pedro: Opaí
+19/11/2024 07:34 - Pedro: Menos mal que trm integração
+19/11/2024 07:34 - Danilo Lima: Prr
+19/11/2024 07:35 - Danilo Lima: Pegar ônibus errado eh mt ruim pqp
+19/11/2024 07:35 - Danilo Lima: Fui parar lá no aeroporto uma vez, só tinha eu no bhsu
+19/11/2024 07:35 - átila(Est(: foda é que eu tô tendo aula
+19/11/2024 07:35 - Danilo Lima: Kkkkkkkkk
+19/11/2024 07:35 - Danilo Lima: Prr
+19/11/2024 07:35 - átila(Est(: o corno do Pedro tá na aula
+19/11/2024 07:35 - Danilo Lima: Eh, aí eh pior ainda
+19/11/2024 07:36 - Pedro: Opaí que zorra
+19/11/2024 07:36 - átila(Est(: KDKSKSJSJSKSKSKSKSKSK
+19/11/2024 07:36 - Pedro: PORRA
+19/11/2024 07:36 - átila(Est(: ia visitar os EUA né mano
+19/11/2024 07:36 - átila(Est(: entendo
+19/11/2024 07:36 - átila(Est(: brincadeira mano é meu jeito carinhoso de dizer
+19/11/2024 07:36 - Pedro: O cara vai de busu para pegar avião
+19/11/2024 07:36 - Pedro: KKKKKKKKKKKKKKKKKKK
+19/11/2024 07:36 - Danilo Lima: Tp isso
+19/11/2024 07:37 - Pedro: <Mídia oculta>
+19/11/2024 07:37 - Danilo Lima: Eu ia ver a copa de 2026 la, casar cm uma americana e ter um filho e pegar cidadania logo
+19/11/2024 07:37 - Danilo Lima: Eh a ideia
+19/11/2024 07:39 - Pedro: Tu ta ligado, que tu vai pagar imposto
+19/11/2024 07:39 - Pedro: No brasil e nos eua
+19/11/2024 08:15 - Danilo Lima: Prr
+19/11/2024 08:15 - Danilo Lima: Acabou cm o sonho
+19/11/2024 08:16 - Pedro: <Mídia oculta>
+19/11/2024 08:29 - Danilo Lima: <Mídia oculta>
+19/11/2024 08:33 - átila(Est(: Kkkkkkkkkkkkkkkk
+19/11/2024 08:33 - átila(Est(: crlh
+19/11/2024 08:34 - átila(Est(: ai n bate certo n
+21/11/2024 14:08 - Pedro: Usk
+21/11/2024 14:08 - Pedro: Vou tentar rodar um prompt aqui
+21/11/2024 14:08 - Pedro: No pc do trampo, seja o que Deus quiser
+21/11/2024 21:16 - átila(Est(: blz
+21/11/2024 21:16 - átila(Est(: deu certo?
+21/11/2024 21:16 - átila(Est(: ta faltando algo?
+21/11/2024 21:16 - átila(Est(: alguém envia aí
+21/11/2024 21:16 - átila(Est(: só parei agora
+21/11/2024 22:31 - Pedro: 10 min depois que mandei isso ficou sem net o pc
+21/11/2024 22:31 - Pedro: .
+21/11/2024 23:32 - Danilo Lima: Mano
+21/11/2024 23:32 - Danilo Lima: Tentei aq
+21/11/2024 23:33 - Danilo Lima: Mas a porcaria n carrega
+21/11/2024 23:37 - Danilo Lima: E mal n ter feito muita coisa nesse tbm
+21/11/2024 23:38 - Danilo Lima: Nos próximos vai dar pra ajudar mais
+22/11/2024 02:56 - Pedro: <Mídia oculta>
+28/11/2024 21:04 - átila(Est(: rapaziada
+28/11/2024 21:04 - átila(Est(: tinha algo pra fazer?
+20/12/2024 07:28 - Pedro: Usk
+20/12/2024 07:28 - Pedro: Parece que a brincadeira irá começar
+20/12/2024 07:28 - Danilo Lima: Calma q to chegando
+20/12/2024 07:28 - Pedro: <Mídia oculta>
+20/12/2024 07:28 - Pedro: Nem é aula
+20/12/2024 07:29 - Danilo Lima: Imaginei q era o trabalho
+20/12/2024 07:29 - Pedro: Ja ouvi o estalo da coquinha abrindo
+20/12/2024 07:29 - Pedro: E é
+20/12/2024 07:29 - Danilo Lima: Kkkkkkkkkkkkkkkk
+20/12/2024 07:29 - Pedro: <Mídia oculta>
+20/12/2024 07:29 - Danilo Lima: <Mídia oculta>
+20/12/2024 07:29 - Pedro: <Mídia oculta>
+20/12/2024 07:29 - Danilo Lima: Haujwuahdjwjajsjjs
+20/12/2024 07:30 - Danilo Lima: Cheguei aq no estacionamento agr
+20/12/2024 07:30 - Danilo Lima: Tô indo praí
+20/12/2024 07:30 - Pedro: Amém
+20/12/2024 07:30 - Pedro: Agora falta átila para decidir a área
+20/12/2024 07:41 - átila(Est(: tô pegando o buzu
+20/12/2024 07:41 - átila(Est(: 🙁
+20/12/2024 07:41 - átila(Est(: acordei 7h
+20/12/2024 07:42 - átila(Est(: aula 7 da manhã é putaria viado
+20/12/2024 07:42 - átila(Est(: é pra matar unm
+20/12/2024 07:42 - átila(Est(: tô tankando mais n
+20/12/2024 07:42 - Pedro: Semestre que vem é de seg a sex pae
+20/12/2024 07:43 - Pedro: E no colegio era como
+20/12/2024 07:43 - Pedro: IfBaiano era à tarde?
+20/12/2024 07:43 - Pedro: Pq eu começava 7h no colegio
+20/12/2024 07:44 - átila(Est(: 6h45 eu tinha q tá no ponto pra pegar o carro, já que eu era de outra cidade
+20/12/2024 07:44 - átila(Est(: a aula era 7h39
+20/12/2024 07:44 - átila(Est(: 7h40
+20/12/2024 07:45 - átila(Est(: mas pô viado, era certo o ônibus sabe
+20/12/2024 07:45 - átila(Est(: aí eu tinha que acordar realmente umas 6h
+20/12/2024 07:45 - Pedro: Tlg
+20/12/2024 07:45 - átila(Est(: aqui fica variando os horários
+20/12/2024 07:45 - átila(Est(: aí eu fico perdido
+20/12/2024 07:46 - átila(Est(: a certeza que eu tenho é que passa meu ônibus tipo umas 6h35 no ponto
+20/12/2024 07:46 - átila(Est(: só que ontem eu tava fazendo a comida de hoje
+20/12/2024 07:46 - átila(Est(: aí fui terminar era umas 23h20  sem meme
+20/12/2024 17:51 - ‎Pedro mudou a imagem deste grupo.
+29/12/2024 12:23 - Pedro: Usk
+29/12/2024 12:23 - Pedro: Vcs viajaram ne ?
+29/12/2024 12:23 - Pedro: Querem ver essa semana para decidirmos nosso tema em IA ?
+30/12/2024 01:02 - Danilo Lima: Pode ser
+30/12/2024 01:02 - Danilo Lima: Voltei hj
+30/12/2024 08:24 - Pedro: Ja ta podendo falar "oxe" ? <Mensagem editada>
+30/12/2024 11:33 - Danilo Lima: Ainda tô falando vice 😭 <Mensagem editada>
+04/01/2025 18:32 - Pedro: Acabou as ferias e nao decidimos nada
+04/01/2025 18:32 - Pedro: Vamo fazer o seguinte
+04/01/2025 18:32 - Pedro: Faremos um prompt
+04/01/2025 18:33 - Pedro: Com os temas e perguntamos de qual dos temas o chatgpt pode nos ajudar
+04/01/2025 18:33 - Pedro: Ou seja, o gpt escolhe o tema que ele mesmo irá desenvolver
+04/01/2025 21:55 - átila(Est(: Kkkkkkkkkkkkkk
+04/01/2025 21:55 - átila(Est(: o bicho é preguiçoso que só a porra né vei
+04/01/2025 21:55 - átila(Est(: KAKAKAKAKAKAKAKKAKAKAKAKAK
+04/01/2025 21:55 - átila(Est(: eu tbm sou assim
+04/01/2025 21:57 - Pedro: Mas não é óbvio isso
+04/01/2025 22:06 - Pedro: https://www.instagram.com/reel/DEYsJNovNhM/?igsh=MXBhdGs4b3Vhd2ZyOA==
+04/01/2025 22:06 - Pedro: @ricardo
+04/01/2025 22:07 - Pedro: Bora add ele usk
+04/01/2025 22:07 - Pedro: ?
+04/01/2025 22:08 - átila(Est(: ox
+04/01/2025 22:08 - átila(Est(: o professor?
+04/01/2025 22:08 - átila(Est(: KKKKKKKKKKK
+04/01/2025 22:08 - Pedro: Ele nos orienta logo aqui no zap mesmo
+04/01/2025 22:11 - átila(Est(: KKKKKKK a imagem do grupo KKKKKK agr q eu vi
+04/01/2025 22:13 - átila(Est(: será q ele vai aceitar?
+04/01/2025 22:13 - Pedro: Sexta pergunta poh
+04/01/2025 23:47 - Danilo Lima: Kkkkkkkkkkkkkkkkkkkkkkkkk
+04/01/2025 23:47 - Danilo Lima: Rpz
+04/01/2025 23:47 - Danilo Lima: Faz assim
+04/01/2025 23:47 - Danilo Lima: Bora pensar até sexta
+04/01/2025 23:47 - Danilo Lima: E aí se a gente n tiver nada a gente faz isso
+04/01/2025 23:47 - Danilo Lima: Fds
+05/01/2025 08:46 - Pedro: Fecho
+05/01/2025 08:46 - Pedro: Kskskskskksksksks
+05/01/2025 08:47 - Pedro: Ultimo dia de fazer nada
+05/01/2025 08:47 - Pedro: <Mídia oculta>
+05/01/2025 22:09 - Pedro: https://www.instagram.com/reel/DEYWomHvzvN/?igsh=cjRzeTR4bnFtdWdq
+05/01/2025 22:09 - Pedro: Ah usk
+05/01/2025 22:09 - Pedro: Se nao for esse o tema
+05/01/2025 22:09 - Pedro: Eu desisto de dar ideia
+05/01/2025 22:09 - Pedro: A gente consegue nota e mulher ao mesmo tempo
+05/01/2025 22:09 - Pedro: <Mídia oculta>
+05/01/2025 22:34 - átila(Est(: CARALHO MLK
+05/01/2025 22:35 - átila(Est(: CABOU, É ESSE
+05/01/2025 22:35 - átila(Est(: o que eu vou usar disso daí não tá escrito irmão, não tá escrito
+05/01/2025 22:35 - Pedro: Só falta danilo aprovar
+05/01/2025 22:35 - Pedro: ...
+05/01/2025 22:35 - Pedro: Chega no encontro
+05/01/2025 22:36 - Pedro: Vc usando o comando de voz para o chat lhe dar a melhor resposta para o que a mulher falar
+05/01/2025 22:36 - átila(Est(: pvf
+05/01/2025 22:36 - átila(Est(: pvt
+05/01/2025 22:36 - átila(Est(: <Mídia oculta>
+05/01/2025 22:37 - Pedro: Vc falando
+05/01/2025 22:37 - Pedro: Aqui esta sua resposta caliente para sua amada
+05/01/2025 22:37 - Pedro: E vc fala isso
+05/01/2025 22:37 - átila(Est(: KKKKKKKKKKKKKKKK
+05/01/2025 22:38 - átila(Est(: Aqui esta sua resposta caliente para sua amada [inserir nome da pretendente]
+05/01/2025 22:39 - Pedro: KKKKKKKKKKKKK
+05/01/2025 22:39 - Pedro: Ah mano, o que teremos de casais
+05/01/2025 22:39 - Pedro: Será que o código admite que é uma IA, se ela perguntar ?
+05/01/2025 22:40 - Pedro: Tem aquele filme do coringa
+05/01/2025 22:40 - átila(Est(: provavel
+05/01/2025 22:40 - Pedro: Que ele se apaixona por uma IA
+05/01/2025 22:40 - Pedro: A gente traça um paralelo
+05/01/2025 22:41 - átila(Est(: KKKKKKKKKKKKKKK
+05/01/2025 22:41 - átila(Est(: mano
+05/01/2025 22:41 - átila(Est(: mas vai ser que nem no Black morro
+05/01/2025 22:41 - átila(Est(: mirror
+05/01/2025 22:41 - átila(Est(: vai ter robô mulher pra casar com o cara e robô homem tb
+05/01/2025 22:41 - Pedro: Meu medo é que o gpt tenha genero
+05/01/2025 22:42 - Pedro: Mas só seria 0 ou 1
+05/01/2025 22:42 - Pedro: E na bahia nem pode
+05/01/2025 22:44 - átila(Est(: rapaz, ia ter quatrocencacetadas de gênero, deixa pra lá
+05/01/2025 22:45 - Pedro: A cada prompt
+05/01/2025 22:45 - Pedro: Um genero diferente pense ai
+05/01/2025 22:45 - Pedro: <Mídia oculta>
+06/01/2025 00:05 - Danilo Lima: Aprovei
+06/01/2025 00:05 - Danilo Lima: N tem como n
+06/01/2025 00:05 - Danilo Lima: Ideia magnífica
+06/01/2025 00:06 - Danilo Lima: Mas imagina aí
+06/01/2025 00:06 - Danilo Lima: As duas pessoas q tal conversando usando essa parada kkkkkkkkkk
+06/01/2025 01:16 - átila(Est(: ngm sabe oq as IA ia ser capaz
+06/01/2025 01:16 - átila(Est(: daqui a pouco uma se apaixonava pela outra
+06/01/2025 06:23 - Pedro: KKKKKKK
+06/01/2025 06:23 - Pedro: Vamo fazer um teste assim
+06/01/2025 06:23 - Pedro: Ótimo dia aí usk
+06/01/2025 06:24 - Pedro: Tudo de melhor neste final de semestre lara nós
+06/01/2025 08:19 - Danilo Lima: Hj tem festinha graças a deus
+06/01/2025 08:42 - Pedro: Vc levando corote
+06/01/2025 08:42 - Pedro: null
+06/01/2025 08:42 - Pedro: To aqui esperano
+06/01/2025 08:42 - Pedro: <Mídia oculta>
+07/01/2025 06:56 - Danilo Lima: E eu besta fiquei esperando
+07/01/2025 06:58 - Pedro: Esperando o que?
+07/01/2025 07:06 - Danilo Lima: O corote
+07/01/2025 07:22 - Pedro: Vc nao trouxe mano
+07/01/2025 07:22 - Pedro: Toda errado
+07/01/2025 07:22 - Pedro: Vc prometeu e tudo
+07/01/2025 07:23 - Pedro: Finalmente, vc levou o que ontem que nem comi tbm ?
+07/01/2025 09:55 - Danilo Lima: As lolitas
+07/01/2025 09:55 - Danilo Lima: Os doces de goiaba
+07/01/2025 10:37 - átila(Est(: aonde??
+07/01/2025 10:39 - Pedro: Era na sala 22
+07/01/2025 10:39 - Pedro: Ontem poh
+07/01/2025 10:39 - átila(Est(: po viado
+07/01/2025 10:39 - átila(Est(: foi mal
+07/01/2025 10:39 - átila(Est(: minha mente tá bugada
+07/01/2025 10:39 - átila(Est(: eu nem vi o "ontem" do wpp
+07/01/2025 10:40 - Pedro: KKKKKKKKKKKKKKKKO
+07/01/2025 10:40 - átila(Est(: terminei a questão 1 da prova só agr
+07/01/2025 10:40 - Pedro: Ta onde ?
+07/01/2025 10:40 - átila(Est(: tô aqui no segundo andar do ime
+09/01/2025 18:29 - Pedro: Usk
+09/01/2025 18:29 - Pedro: Vcs estã inteiros? <Mensagem editada>
+09/01/2025 18:29 - Pedro: Pq ate um dia desses atila tava com febre
+09/01/2025 18:29 - Pedro: Danilo só nos vômitos
+09/01/2025 18:30 - Pedro: Pq se vcs nao tiverem bem, me falem
+09/01/2025 18:30 - Pedro: Pq ai tento escrever o projeto para mostrar para ricardo e ele avaliar
+09/01/2025 18:30 - Pedro: Mas isso é nada de mais mesmo
+09/01/2025 18:30 - Pedro: Só para nortear sabe
+09/01/2025 18:30 - Pedro: Me digam ai como vcs tão
+09/01/2025 18:31 - Pedro: Eu vou treinar perna e me planejo para resolver isso
+09/01/2025 18:43 - átila(Est(: calma mano
+09/01/2025 18:43 - átila(Est(: tô de boas
+09/01/2025 18:43 - átila(Est(: vou ajudar tb
+09/01/2025 18:46 - Danilo Lima: Tbm mn
+09/01/2025 18:46 - Danilo Lima: Mas tp
+09/01/2025 18:46 - Danilo Lima: Amanhã pode ir só cm a ideia né?
+09/01/2025 20:13 - Pedro: É isso poh
+09/01/2025 20:13 - Pedro: Só lara reformular
+09/01/2025 20:13 - Pedro: Ainda bem
+09/01/2025 20:13 - Pedro: Coisa boa entao
+10/01/2025 00:25 - Danilo Lima: Blzz
+10/01/2025 07:29 - Danilo Lima: Rpz
+10/01/2025 07:29 - Danilo Lima: Eu atrasei pra prr
+10/01/2025 07:29 - Danilo Lima: Devo tá chegando umas 7:50
+10/01/2025 07:29 - Danilo Lima: Ele tá falando oq aí?
+10/01/2025 07:31 - Pedro: Curva exponencial
+10/01/2025 07:31 - Pedro: Blz
+10/01/2025 07:31 - Pedro: Poder conputacional
+10/01/2025 07:31 - Pedro: Vou eng comp
+10/01/2025 07:31 - Pedro: De noite
+10/01/2025 07:31 - Pedro: Na ufba
+10/01/2025 07:31 - Pedro: De graça
+10/01/2025 07:31 - Danilo Lima: Kkkkkkkkkkkkkkkkkkkkkkkkkk
+10/01/2025 07:31 - Pedro: Maior risco: segurança
+10/01/2025 07:31 - Danilo Lima: E não esqueça q não contrata mais junior
+10/01/2025 07:32 - Pedro: KKKKKKKKKKKKKKKKKKKKK
+10/01/2025 07:32 - Pedro: Essa info entrou ja sua mente
+10/01/2025 07:32 - Pedro: Se nao tem vaga de juniorn
+10/01/2025 07:32 - Pedro: Abrimos uma empresa so de junior
+10/01/2025 07:32 - Pedro: Barateia nosso valor de mercado
+10/01/2025 07:32 - Pedro: E emtrega do bom e do melhor 
+Assim viramos pleno na nossa própria empresa
+10/01/2025 07:32 - Pedro: Stomks
+10/01/2025 07:36 - Danilo Lima: Kkkkkkkkkkkkkkkkk
+10/01/2025 07:36 - Danilo Lima: Só temos que entregar bem
+10/01/2025 07:36 - Danilo Lima: Pronto
+10/01/2025 07:37 - Danilo Lima: A gente bota o chat gpt pra fazer o trabalho td
+10/01/2025 07:37 - Danilo Lima: E outras ias
+10/01/2025 07:37 - Danilo Lima: E fechou
+10/01/2025 07:38 - Pedro: Entao poh
+10/01/2025 07:38 - Pedro: O futuro é eng de prompt poh
+10/01/2025 07:38 - Danilo Lima: Eh isso
+10/01/2025 07:38 - Danilo Lima: E o cara ainda falou que daq a um tempo isso nem vai existir mais
+10/01/2025 07:44 - átila(Est(: po os cara
+10/01/2025 07:44 - átila(Est(: foi mal
+10/01/2025 07:44 - átila(Est(: só cons 😀guinchegar agora
+10/01/2025 13:36 - Você agora é um admin do grupo
+14/01/2025 07:50 - Você adicionou Gonçalo Dantas Passos (Est)
+14/01/2025 13:18 - Pedro: Escolher um tema relevante para o trabalho em Inteligência Artificial é fundamental para garantir que vocês não apenas aprendam mais sobre as ferramentas que estamos explorando, mas também desenvolvam soluções que façam a diferença em um contexto real. Pensem nos problemas que vocês conhecem em sua área de estudo ou nos desafios que já enfrentaram em estágios, projetos ou mesmo no dia a dia.
+
+O objetivo é identificar um problema claro e usar as ferramentas de IA para propor uma solução criativa, eficiente e viável. Pode ser algo relacionado a otimização de processos, análise de dados, personalização de serviços, automação ou até mesmo melhorar a interação humanos-IAs. As possibilidades são amplas, então, se permitam explorar e pensar "fora da caixa".
+
+Lembrem-se: o mais importante é que o trabalho tenha impacto e relevância, que gere praticidade/facilidade para algum grupo. Não se preocupem em criar algo muito complexo, mas, sim, em demonstrar como as ferramentas de IA podem ser aplicadas de forma prática para resolver problemas reais. Quanto mais alinhado for o tema com seus interesses e suas áreas de maior conhecimento, melhor.
+
+Após escolherem um tema, detalhem bem o problema e pensem em como as ferramentas que aprenderam até agora podem ajudar. Se precisarem de ajuda para refinar a ideia, estou à disposição! 🚀
+
+Como serão os trabalhos:
+
+Grupos de 1-4 pessoas (fortemente indicado que sejam grupos de pelo menos 3)
+Não pode ter dois grupos trabalhando no mesmo tema
+Teremos tempo para trabalhar nos trabalhos durantes as aulas - etapa por etapa
+Cada grupo deve entregar uma solução de IA para alguma área relevante
+Usaremos o conceito de POC (Proof os Concept)
+POC (Proof of Concept, ou Prova de Conceito) é um processo usado para demonstrar a viabilidade de uma ideia, tecnologia ou solução. O objetivo é testar, em pequena escala, se algo pode funcionar antes de investir recursos significativos. A POC não se preocupa com escalabilidade ou detalhes de implementação final, mas sim com validar hipóteses fundamentais.
+14/01/2025 13:19 - Pedro: Uma PoC (Proof of Concept ou Prova de Conceito) é uma demonstração simples e funcional de uma ideia ou tecnologia, cujo objetivo principal é validar a viabilidade de um projeto antes de investimentos maiores em tempo, dinheiro e recursos.
+
+No contexto de projetos que envolvem IA, a PoC ajuda a confirmar se o modelo de aprendizado de máquina ou a abordagem de inteligência artificial realmente atende aos requisitos iniciais e fornece valor à aplicação pretendida.## **Etapas da PoC**
+
+1. Clarifique o objetivo, escopo e métrica de sucesso
+1. Coleta de Dados e Preparação dos Modelos
+1. Desenvolvimento Total da Solução
+1. Implementação e Integração com Streamlit
+1. Testes e Validações finais
+1. Apresentação da PoC
+14/01/2025 17:10 - Pedro: <Mídia oculta>
+14/01/2025 21:10 - Pedro: <Mídia oculta>
+15/01/2025 14:02 - Pedro: Agente vendedores de IA, Leed
+15/01/2025 14:04 - Pedro: Assistor deep learming
+15/01/2025 14:04 - Pedro: Learning
+17/01/2025 08:56 - Pedro: Funcionalidade
+21/01/2025 06:40 - Pedro: O treinamento personalizado com dados do usuário permite que a IA seja treinada com mensagens de whatsapp e instagram, para replicar o estilo de comunicação, vocabulário e tom do usuário. Esse processo é complementado por uma interação personalizada e simulação de conversa, onde o gêmeo responde automaticamente às perguntas de acordo com o estilo de comunicação do usuário, oferecendo opções para personalizar o tom, a depender do ciclo social seja  familiar, de amigos próximls, colegas de trabalho e faculdade e pessoas interessadas em conhecer esta cópia nova. A interface intuitiva para configuração, acessível via aplicativo Streamlit, facilita o envio de dados de treinamento, como mensagens. Também são disponibilizadas ferramentas para avaliação de similaridade e feedback, permitindo a comparação entre as respostas do avatar e as respostas originais, de modo a medir a fidelidade na comunicação, além da coleta de feedback dos interlocutores para avaliar a satisfação e ajustar o comportamento do avatar conforme necessário.
+21/01/2025 06:40 - Pedro: Mensagem apagada
+21/01/2025 06:40 - Pedro: Além disso, existe a funcionalidade de controle de escopo e limitação de respostas, que possibilita ao usuário definir áreas de conhecimento e temas que o avatar pode abordar, com filtros para evitar respostas incorretas ou fora do escopo.
+21/01/2025 06:40 - Pedro: Eu pensei em adicionar isso
+21/01/2025 06:41 - Pedro: Mas penso que criar um limitante
+21/01/2025 06:41 - Pedro: Me digam, o que pensam, temos até hj à tarde para submeter
+21/01/2025 06:41 - Pedro: Ótimo dia ai grupo
+21/01/2025 06:41 - Pedro: <Mídia oculta>
+21/01/2025 07:38 - Gonçalo Dantas Passos (Est): Eu acho que não podemos fugir de "criar limitantes".
+24/01/2025 07:03 - Pedro: perdao
+24/01/2025 07:03 - Pedro: acordei literalmente agr
+24/01/2025 07:03 - Pedro: @557192955328 tbm?
+24/01/2025 08:28 - Pedro: Atenção à eng de prompt
+24/01/2025 10:59 - Pedro: https://colab.research.google.com/drive/16QEuf6m3shI15WpEz9vrMGaaHwpzlu8W
+24/01/2025 12:11 - Danilo Lima: Morri hj
+24/01/2025 12:11 - Danilo Lima: E enxaqueca da prr
+24/01/2025 13:19 - Pedro: Melhoras mano
+24/01/2025 13:19 - Pedro: Fique bem
+31/01/2025 06:40 - Pedro: Usk
+31/01/2025 06:40 - Pedro: Chegarei em cima da hora na aula
+31/01/2025 06:40 - Pedro: Ou seja, umas 07h10
+31/01/2025 06:40 - Pedro: Mas se liguem, faltam 2 assistentes
+31/01/2025 06:41 - Pedro: E depois disso alimentar e so upar para o streamlit
+31/01/2025 06:41 - átila(Est(: bom dia
+31/01/2025 06:41 - átila(Est(: tb
+31/01/2025 06:42 - átila(Est(: no meu caso é 7h30 pq tô de oe
+31/01/2025 06:44 - Gonçalo Dantas Passos (Est): Ok. Estou chegando.
+Bom dia!
+31/01/2025 06:52 - átila(Est(: <Mídia oculta>
+31/01/2025 07:02 - Pedro: Pensei que chegava só 08h50
+31/01/2025 07:14 - Danilo Lima: Eu vou chegar 7:30
+31/01/2025 07:16 - Danilo Lima: Blzz
+31/01/2025 08:12 - Pedro: Problema: pegar dois textos
+Impróprio uso do whatsapp
+Jeito, estilo
+Pegar e pensar no gêmeo qualquer pessoa com whatsapp
+App arquivo dados suficientes para contexto
+Ideia: dados ricos sobre uma pessoa youtube, clonar um youtuber 
+Clonar famoso a ponto de saber whatssapp LGPD 
+O próprio usuátio pode ceder
+Aplicação comercial 
+Não expõe 
+Como usamos fontes diferentes.
+31/01/2025 08:12 - Pedro: Twitter
